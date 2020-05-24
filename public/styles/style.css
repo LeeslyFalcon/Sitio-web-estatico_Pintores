@@ -1,0 +1,24 @@
+body{
+    background-image: url("imagenes/fondo2.gif");
+}
+
+header{
+    border: 1px black solid;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 5px;
+}
+
+main{
+    border: 1px black solid;
+    background-color: khaki;
+    margin: 5px;
+    text-align: center;
+}
+
+footer{
+    border: 1px black solid;
+    background-color: mediumpurple;
+    margin: 5px;
+    text-align: center;
+}
